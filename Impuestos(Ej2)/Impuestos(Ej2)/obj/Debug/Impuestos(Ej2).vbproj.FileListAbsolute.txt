@@ -1,0 +1,11 @@
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\bin\Debug\Impuestos(Ej2).exe
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\bin\Debug\Impuestos(Ej2).pdb
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\bin\Debug\Impuestos(Ej2).xml
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos(Ej2).vbprojResolveAssemblyReference.cache
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos_Ej2_.Form1.resources
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos_Ej2_.Resources.resources
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos(Ej2).vbproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos(Ej2).vbproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos(Ej2).exe
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos(Ej2).xml
+C:\Proyectos Visual Studio\Impuestos(Ej2)\Impuestos(Ej2)\obj\Debug\Impuestos(Ej2).pdb
